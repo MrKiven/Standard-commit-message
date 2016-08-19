@@ -44,3 +44,7 @@ Subject include three fields: `type(Y)`, `scope(N)`, `subject(Y)`
           
       - Close issue
 
+
+## LICENSE
+
+[MIT](LICENSE)
